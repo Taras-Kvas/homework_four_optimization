@@ -1,0 +1,40 @@
+.width600 {
+    width: 600px;
+}
+.height70 {
+    height: 70px;
+}
+.bg-blue {
+    background: blue;
+}
+.bg-aquamarine {
+    background: aquamarine;
+}
+.bg-darkblue {
+    background: darkblue;
+}
+.container {
+    display: flex;
+}
+.bg-sienna {
+    background: sienna;
+}
+.bg-red {
+    background: red;
+}
+.width500 {
+    width: 500px;
+}
+.width100 {
+    width: 100px;
+}
+.height250 {
+    height: 250px;
+}
+.margin {
+    margin-bottom: 1px;
+}
+.text {
+    text-align: center;
+    align-items: center;
+}

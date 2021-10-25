@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.bg-yellow {
+    background: yellow;
+}
+.height300 {
+    height: 300px;
+}
+.width600 {
+    width: 600px;
+}
+.bg-red {
+    background: red;
+}
+.display {
+    display: flex;
+}
+.bg-green {
+    background: green;
+}
+.height250 {
+    height: 250px;
+}
+.width300 {
+    width: 300px;
+}

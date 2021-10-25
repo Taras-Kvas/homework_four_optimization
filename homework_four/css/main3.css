@@ -1,0 +1,31 @@
+.bg-blue {
+    background: blue;
+}
+.width300 {
+    width: 300px;
+}
+.height150 {
+    height: 150px;
+}
+.bg-darkblue {
+    background: darkblue;
+}
+.height70 {
+    height: 70px;
+}
+.content {
+    display: flex;
+    column-gap: 10px;
+}
+.border {
+    box-sizing: border-box;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.margin {
+    margin: 10px 0 10px;
+}
+.text {
+    text-align: center;
+    align-items: center;
+}

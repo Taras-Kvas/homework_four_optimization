@@ -1,0 +1,38 @@
+.bg-silver {
+    background: silver;
+}
+.height150 {
+    height: 150px;
+}
+.width300 {
+    width: 300px;
+}
+.bg-olive {
+    background: olive;
+}
+.bg-yellow {
+    background: yellow;
+}
+.display {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.width80 {
+    width: 80px;
+}
+.padding {
+    padding: 10px;
+}
+.content {
+    box-sizing: border-box;
+}
+.bg-red {
+    background: red;
+}
+.height50 {
+    height: 50px;
+}
+.margin-bot {
+    margin-bottom: 10px;
+}
